@@ -1,0 +1,9 @@
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\bin\Debug\Cliente.exe
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\obj\Debug\Cliente.FormCliente.resources
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\obj\Debug\Cliente.exe
+C:\Users\Jose\documents\visual studio 2015\Projects\Proyecto-830\Cliente\obj\Debug\Cliente.pdb
